@@ -66,7 +66,6 @@ Docker Compose · Nginx · REST APIs · GraphQL APIs · Vitest · Playwright · 
 
 🔗 **Repository:** [ConsultFlow](https://github.com/saqlainyaqoob/consultflow)
 
-> Note: Replace the repository URL above if ConsultFlow is hosted under a different GitHub repository name.
 
 **Built with:** React 19 · TypeScript · Node.js · Express 5 · Apollo GraphQL · PostgreSQL · Docker
 
